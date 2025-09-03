@@ -4,5 +4,7 @@ int main() {
 
     printf("Halo, Dunia!\n");
 
+    printf("Putra Hariyanto Ganteng\n");
+
     return 0;
 }
