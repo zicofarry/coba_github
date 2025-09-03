@@ -6,7 +6,7 @@ int main() {
 
     printf("Putra Hariyanto Ganteng\n");
 
-    // jsdhfjdshjfh
+    // jsdhfjdshjf
 
     return 0;
 }
